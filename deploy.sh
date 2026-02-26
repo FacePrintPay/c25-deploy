@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying sovereigngtp..."
+echo "🚀 Deploying sentinel-lens..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ sovereigngtp deployed!"
+echo "✅ sentinel-lens deployed!"
