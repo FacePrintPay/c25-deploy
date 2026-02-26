@@ -12,6 +12,6 @@ chmod +x deploy.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/kre8tive-empire/vercel-master/projects/ai-records/deploy.sh
+/data/data/com.termux/files/home/kre8tive-empire/vercel-master/projects/mybuyo/deploy.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
