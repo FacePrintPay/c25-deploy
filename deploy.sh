@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying ai-creative-stargate..."
+echo "🚀 Deploying z_series_project..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ ai-creative-stargate deployed!"
+echo "✅ z_series_project deployed!"
