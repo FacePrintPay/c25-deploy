@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying frontend..."
+echo "🚀 Deploying ai-metaverse-orgin..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ frontend deployed!"
+echo "✅ ai-metaverse-orgin deployed!"
