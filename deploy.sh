@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying bolt.new..."
+echo "🚀 Deploying sovereigngtp..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ bolt.new deployed!"
+echo "✅ sovereigngtp deployed!"
