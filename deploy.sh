@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying data-api..."
+echo "🚀 Deploying stargate..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ data-api deployed!"
+echo "✅ stargate deployed!"
