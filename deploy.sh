@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying sovereign-ad-serve..."
+echo "🚀 Deploying ai-records..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ sovereign-ad-serve deployed!"
+echo "✅ ai-records deployed!"
