@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying linkto..."
+echo "🚀 Deploying aikre8tivegenesis..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ linkto deployed!"
+echo "✅ aikre8tivegenesis deployed!"
