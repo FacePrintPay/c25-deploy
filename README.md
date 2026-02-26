@@ -12,6 +12,6 @@ chmod +x deploy.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/kre8tive-empire/vercel-master/projects/ai-metaverse-orgin/deploy.sh
+/data/data/com.termux/files/home/kre8tive-empire/vercel-master/projects/linkto/deploy.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
