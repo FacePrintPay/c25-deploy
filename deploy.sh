@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying videocourts..."
+echo "🚀 Deploying bolt.new..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ videocourts deployed!"
+echo "✅ bolt.new deployed!"
