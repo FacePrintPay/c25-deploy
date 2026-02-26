@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "🚀 Deploying aikre8tivegenesis..."
+echo "🚀 Deploying total_recall_forensics..."
 # Install dependencies
 npm install
 # Build
 npm run build
 # Deploy to Vercel
 vercel --prod --yes
-echo "✅ aikre8tivegenesis deployed!"
+echo "✅ total_recall_forensics deployed!"
